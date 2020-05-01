@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#/home/kiran/PycharmProjects/untitled/FFNetwork.py</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">FFNetwork.FFNetwork</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7455138662316476" x="603.0" y="316.5" />
+  <SelectedNodes>
+    <node>FFNetwork.FFNetwork</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+</Diagram>
+
