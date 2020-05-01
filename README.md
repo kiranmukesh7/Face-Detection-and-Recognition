@@ -5,7 +5,7 @@ A Face Detection and Recognition system based on Eigenface method
 
 1. The file "Face_Detection_Recognition" contains the complete set of codes which were used for building the final functional code: "PCA-Face". It contains the hand-coded versions of the neural network(s), face alignment code(though, the method applied did not work on the given dataset) and other experiments performed with proper references (giving credit to original authors).
 
-2. Pre-trained models have been saved in the Output-images folder (file names beginning with "CLASS").
+2. Pre-trained models have been saved in the Output-files folder (file names beginning with "CLASS").
 
 3. Report present in this folder contains complete description of all the experiments conducted and the resources used, steps in pipeline which are to be there in an ideal face recognition system, and how much of it have been implemented. It also contains a pseudo code of the submitted code. 
 
