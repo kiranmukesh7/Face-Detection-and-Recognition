@@ -1,7 +1,7 @@
 # Face-Detection-and-Recognition
 A Face Detection and Recognition system based on Eigenface method
 
-## Files and folders in "SC17B106_SC17B150.zip" file:
+## Files and folders:
 
 1. The file "Face_Detection_Recognition" contains the complete set of codes which were used for building the final functional code: "PCA-Face". It contains the hand-coded versions of the neural network(s), face alignment code(though, the method applied did not work on the given dataset) and other experiments performed.
 
